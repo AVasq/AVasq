@@ -1,10 +1,9 @@
 badge:twitter badge:linkedin badge:resume badge:codewar
 
 TL;DR 
-💼   I'm part of Automata Network team, a Front End Developer.
+💼   I'm a Front End Developer.
 🌱   I’m currently learning Automated Testing and taking ExpressJS certification.
-💬   I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Bahasa Indonesia 🇮🇩.
-📫   I can be reached at arvianto DOT dwi AT gmail DOT com. See you in my mailbox!
+💬   I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Spanish
 Hello, hello! 
 Call me Agustín (he/him). I currently live in Chile. Now focusing myself on the Front End side. I know couple stuff of Back End Development but not very good at memorizing things for a long time (quick learner problem lol).
 
